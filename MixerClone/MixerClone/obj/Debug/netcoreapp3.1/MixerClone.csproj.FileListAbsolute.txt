@@ -1,0 +1,17 @@
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\bin\Debug\netcoreapp3.1\MixerClone.exe
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\bin\Debug\netcoreapp3.1\MixerClone.deps.json
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\bin\Debug\netcoreapp3.1\MixerClone.runtimeconfig.json
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\bin\Debug\netcoreapp3.1\MixerClone.runtimeconfig.dev.json
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\bin\Debug\netcoreapp3.1\MixerClone.dll
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\bin\Debug\netcoreapp3.1\MixerClone.pdb
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.csproj.AssemblyReference.cache
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.AssemblyInfoInputs.cache
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.AssemblyInfo.cs
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.csproj.CoreCompileInputs.cache
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.csproj.CopyComplete
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.dll
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.pdb
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\obj\Debug\netcoreapp3.1\MixerClone.genruntimeconfig.cache
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\bin\Debug\netcoreapp3.1\AudioSwitcher.AudioApi.dll
+C:\git\private\SoundMixerClone\MixerClone\MixerClone\bin\Debug\netcoreapp3.1\AudioSwitcher.AudioApi.CoreAudio.dll
