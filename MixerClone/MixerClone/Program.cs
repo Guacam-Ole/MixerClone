@@ -25,6 +25,8 @@ namespace MixerClone
 
             Guid targetGuid = Guid.Empty;
             if (args.Length > 1) targetGuid = new Guid(args[1]);
+            Console.WriteLine("Initializing. Please Wait...");
+
             soundDevices.CloneDevice(new Guid(args[0]), targetGuid);
             Console.WriteLine("Close window to stop cloning");
 

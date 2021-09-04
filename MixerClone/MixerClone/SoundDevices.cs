@@ -41,6 +41,12 @@ namespace MixerClone
             if (sourceDevice == null || _targetDevice == null) throw new Exception("Cannot find device (wrong guid)");
             if (sourceDevice == _targetDevice) throw new Exception("Will not allow for the universe to explode (source=target");
             sourceDevice.VolumeChanged.Subscribe(VolumeChanged);
+            sourceDevice.MuteChanged.Subscribe(MuteChanged);
+        }
+
+        private void MuteChanged(DeviceMuteChangedArgs muteChangedArgs)
+        {
+            _targetDevice.Mute(muteChangedArgs.IsMuted);
         }
 
         private void VolumeChanged(DeviceVolumeChangedArgs volumeChangedArgs)
@@ -50,7 +56,3 @@ namespace MixerClone
     }
 }
 
-// HeadSet: f536f0af-8645-4446-a9a7-cea066cbcb57
-// LG: b63196fe-f158-4751-a300-e89d90173a43
-
-// HeadSet: f536f0af-8645-4446-a9a7-cea066cbcb57 b63196fe-f158-4751-a300-e89d90173a43
