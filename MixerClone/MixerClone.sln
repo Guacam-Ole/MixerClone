@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixerClone", "MixerClone\MixerClone.csproj", "{491277FE-AECA-40B6-851C-1FB2D5EB5995}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "McConsole", "MixerClone\McConsole.csproj", "{491277FE-AECA-40B6-851C-1FB2D5EB5995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McBack", "McBack\McBack.csproj", "{24D084DE-175A-4F00-AAA5-E89CF8B415D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McUI", "McUI\McUI.csproj", "{3FFFC098-18C1-465B-9AED-5BE7FAD70C2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{491277FE-AECA-40B6-851C-1FB2D5EB5995}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{491277FE-AECA-40B6-851C-1FB2D5EB5995}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{491277FE-AECA-40B6-851C-1FB2D5EB5995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D084DE-175A-4F00-AAA5-E89CF8B415D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D084DE-175A-4F00-AAA5-E89CF8B415D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D084DE-175A-4F00-AAA5-E89CF8B415D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D084DE-175A-4F00-AAA5-E89CF8B415D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFFC098-18C1-465B-9AED-5BE7FAD70C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFFC098-18C1-465B-9AED-5BE7FAD70C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFFC098-18C1-465B-9AED-5BE7FAD70C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFFC098-18C1-465B-9AED-5BE7FAD70C2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

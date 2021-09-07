@@ -5,7 +5,7 @@ using AudioSwitcher.AudioApi.Observables;
 using System;
 using System.Collections.Generic;
 
-namespace MixerClone
+namespace MixerClone.Backend
 {
     public class SoundDevices
     {
@@ -27,6 +27,11 @@ namespace MixerClone
             }
 
             return allDeviceNames;
+        }
+
+        public Guid GetDefaultDeviceId()
+        {
+            return _audioController.GetDefaultDevice(DeviceType.Playback, Role.Multimedia).Id;
         }
 
         public void CloneDevice(Guid sourceDeviceId, Guid targetDeviceId)

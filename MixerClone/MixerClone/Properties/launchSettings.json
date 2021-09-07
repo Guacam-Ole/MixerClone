@@ -1,7 +1,8 @@
 {
   "profiles": {
     "MixerClone": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "f536f0af-8645-4446-a9a7-cea066cbcb56"
     }
   }
 }

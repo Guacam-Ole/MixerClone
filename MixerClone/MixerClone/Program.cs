@@ -1,8 +1,10 @@
-﻿using System;
+﻿using MixerClone.Backend;
+
+using System;
 using System.IO;
 using System.Text;
 
-namespace MixerClone
+namespace MixerClone.Console
 {
     class Program
     {
